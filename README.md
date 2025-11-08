@@ -34,6 +34,14 @@ It also optionally displays intermediate steps, including coefficient extraction
 
 Degree 2, real solutions
 
+![.](images/image1.png)
+
 Degree 2, complex solutions
 
+![.](images/image2.png)
+
 Linear equation
+
+![.](images/image3.png)
+
+![.](images/image4.png)
