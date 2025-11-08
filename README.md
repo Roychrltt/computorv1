@@ -28,7 +28,7 @@ It also optionally displays intermediate steps, including coefficient extraction
 
 ## Usage
 
-./polynomial_solver "<euqation to solve>"
+``./polynomial_solver "<euqation to solve>"``
 
 ## Example Output
 
